@@ -4,7 +4,7 @@ The **Lyrics Search App** is a web-based application that allows users to search
  
 ## Live Demo
 
-You can try the live demo of the Lyrics Search App [here](#).
+You can try the live demo of the Lyrics Search App [here](https://lyrics-search-black.vercel.app/).
 
 ## Screenshots
 
